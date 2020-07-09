@@ -1,0 +1,8 @@
+{
+	"authenticate": {
+		"unauthenticated": false
+	},
+	"container": {
+		"static_pages__index": "unauthenticated"
+	}
+}
